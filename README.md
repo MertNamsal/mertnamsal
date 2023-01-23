@@ -11,3 +11,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mertnamsal&theme=dark&ring=DDDDDD&fire=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD&sideLabels=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&background=000000&border=DDDDDD&dates=DDDDDD)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MertNamsal)](https://github.com/anuraghazra/github-readme-stats)
