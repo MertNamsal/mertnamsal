@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Mert
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=100&lines=I'm+%C4%B0rfan+Mert+Namsal)](https://git.io/typing-svg)
 
 
 📫 How to reach me namsalmert@gmail.com
